@@ -1,1 +1,1 @@
-# Bartels
+# Repository for Larry Bartels presentation
